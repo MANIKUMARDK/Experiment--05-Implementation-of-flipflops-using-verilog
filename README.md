@@ -112,30 +112,41 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: MANIKUMAR D.K
 RegisterNumber:23013588
 ## T flipflop:
-![Tflip flop code](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/7ae8b592-12a8-42f8-b4d7-95c1ddcc284b)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/e752d296-a951-48b5-b47b-4fb0814f02a3)
+
 ## D flipflop:
-![dff code](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/9f2babb2-acc6-4e99-8c7b-e633358583fe)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/56f9cd51-8033-4e98-984f-9bd824e66fab)
+
 ## JK flipflop:
-![jkff code](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/16125a0b-ac93-4f09-8b7f-eb93a53bd4fb)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/81f673ef-0296-40ae-b5c6-15f06df02b4c)
+
 ## SR flipflop:
-![srff code](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/ca9d39c2-464b-4869-b59c-71e39dc45e05)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/b7a2cd31-4b89-4d55-9c20-df230a9fe316)
+
 ### RTL LOGIC FOR FLIPFLOPS:
 ## T fliflop:
-![Tflip flop gate](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/38f0ad86-816d-4eee-ba73-4721d9cc901e)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/8175d154-e8dd-465f-9837-c5c42b3fbf40)
+
 ## D flipflop:
-![dff](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/a8cd9d32-4a63-4255-9005-b5cea209c703)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/bb6362ae-56b2-4542-8fd4-660537ec2cb0)
+
 ## JK flipflop:
-![jkff gate](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/bd65eda3-6eb9-4e91-9d38-b2501468c74d)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/0659ee0d-bf36-4bba-9931-8072ecbf0dd5)
+
 ## SR flipflop:
-![srff gate](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/4c9f27e5-7250-4289-aeb3-bbf75a6bbd6f)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/d31b57cb-478f-4edc-ba05-b920e6dff91f)
+
 ### TIMING DIGRAMS FOR FLIP FLOPS :
 ## T flipflop:
-![tflip flop line](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/4a437720-48b6-41bc-9550-0c50b6842cf4)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/642edf04-96d3-4c65-ab6d-0516cbdbfb93)
+
 ## D flipflop:
-![dff wave](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/9e2ee033-f0f6-4759-a694-5daf1426bd48)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/1d60ee65-daab-4ba1-b6d4-b8ac7f35b4ee)
+
 ## JK flipflop:
-![jk wave crt](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/80feda01-fac9-4a0e-96f9-901f9713dcbc)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/d0a8900e-55cc-45f9-b958-9a7046dbbcfe)
+
 ## SR flipflop:
-![image](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/8123d4e3-6185-4ada-962e-915f4bb72c0b)
+![image](https://github.com/MANIKUMARDK/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147215581/04463547-8e96-48ae-8b99-63aa9baf16f2)
 
 ### RESULTS:Thus implementation of SR,JK,D and T flipflops using nand gates are done sucessfully.
